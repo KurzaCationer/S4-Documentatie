@@ -4,21 +4,21 @@
 
 ## Table of Contents
 
-<!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 -->
-
+<!-- TOC START min:2 max:3 link:true asterisk:false update:true -->
 - [Introduction](#introduction)
 - [Table of Contents](#table-of-contents)
 - [Learning Outcomes](#learning-outcomes)
 	- [Data preparation](#data-preparation)
-	- [Data analysis & model engineering](#data-analysis-model-engineering)
+	- [Data analysis & model engineering](#data-analysis--model-engineering)
 	- [Reliability and traceability](#reliability-and-traceability)
 	- [Targeted interaction](#targeted-interaction)
 	- [Future orientation](#future-orientation)
 	- [Investigative probing](#investigative-probing)
 	- [Personal leadership](#personal-leadership)
 	- [OE4 Internship Preparation](#oe4-internship-preparation)
-
-<!-- /TOC -->
+- [Retrospect](#retrospect)
+- [Conclusion](#conclusion)
+<!-- TOC END -->
 
 ## Learning Outcomes
 
@@ -91,3 +91,7 @@ You show an **entrepreneurial mindset** regarding the data analysis and/or model
 You create chances to acquire and define an internship assignment based on a match between your ambitions, the school’s requirements and the field of expertise related to your profile or specialisation.
 
 [Development](Development/Internship.md)
+
+## Retrospect
+
+## Conclusion
